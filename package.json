@@ -3,7 +3,7 @@
   "name": "streampng",
   "description": "Streaming PNG encoder/decoder, compatible with latest PNG extensions (PNGEXT 1.4.0)",
   "version": "0.1.9",
-  "homepage": "https://www.github.com:aaron2198/streampng.git",
+  "homepage": "https://www.github.com/aaron2198/streampng.git",
   "repository": {
     "type": "git",
     "url": "git+https://github.com:aaron2198/streampng.git"
