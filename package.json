@@ -6,7 +6,7 @@
   "homepage": "https://www.github.com:aaron2198/streampng.git",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com:aaron2198/streampng.git"
+    "url": "git+https://github.com:aaron2198/streampng.git"
   },
   "main": "index.js",
   "scripts": {
